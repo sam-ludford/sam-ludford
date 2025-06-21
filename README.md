@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam-ludford
 - 👀 I’m interested in RID 10 NAS Raspberry Pi Projects
-- 💞️ I’m looking to collaborate on CHIA FARMMING
+- 💞️ I’m looking to collaborate on Devoloping instatusnat-grade EA for MT4
 - 📫 How to reach me sam_ludford@HOTMAIL.COM
 
 <!---

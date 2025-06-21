@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sam-ludford
-- 👀 I’m interested in RID 10 NAS Raspberry Pi Projects
-- 💞️ I’m looking to collaborate on Devoloping instatusnat-grade EA for MT4
-- 📫 How to reach me sam_ludford@HOTMAIL.COM
+Hi, I'm Sam Ludford! 👋
+I'm @sam-ludford on GitHub, and I'm passionate about the intricate world of trading systems architecture.
 
-<!---
-sam-ludford/sam-ludford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My current focus is on developing institutional-grade Expert Advisors (EAs) for MetaTrader 4 (MT4). I'm actively looking to collaborate with others who share this interest and want to build robust, high-performance trading solutions.
+
+Let's Connect!
+If you're interested in collaborating or just want to chat about trading systems and MT4 EAs, feel free to reach out to me via email:
+
+sam_ludford@hotmail.com
